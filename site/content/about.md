@@ -1,25 +1,106 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "자기소개"
+description = "김성진의 자기소개"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# 안녕하세요, 김성진입니다.
 
-Hugo makes use of a variety of open source projects including:
+안녕하세요. 컴퓨터공학을 공부하고 있는 김성진입니다.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+저는 컴퓨터와 소프트웨어 기술에 관심이 있으며, 특히 프로그래밍을 통해 다양한 문제를 해결하고 새로운 프로그램을 만들어 가는 과정에 흥미를 느끼고 있습니다.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+현재는 컴퓨터공학의 기초 지식을 쌓으면서 프로그래밍 언어와 웹 개발에 대해 공부하고 있습니다. 아직 배워야 할 부분이 많지만, 수업에서 학습한 내용을 직접 실습하고 응용하면서 개발에 대한 이해도를 높이기 위해 노력하고 있습니다.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+앞으로 꾸준한 학습과 다양한 개발 경험을 통해 문제 해결 능력을 갖춘 개발자로 성장하는 것이 목표입니다.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## 관심 분야
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### 웹 개발
+
+웹 개발은 제가 관심을 가지고 있는 분야 중 하나입니다.
+
+평소 사용하는 웹사이트가 어떤 구조로 만들어지고, 사용자의 요청에 따라 어떻게 동작하는지 궁금해 웹 개발에 관심을 갖게 되었습니다.
+
+현재는 HTML과 CSS를 중심으로 웹페이지의 기본적인 구조와 디자인을 학습하고 있으며, 앞으로 JavaScript를 공부하여 사용자와 상호작용할 수 있는 웹페이지를 만들어 보고 싶습니다.
+
+나아가 프론트엔드와 백엔드의 역할을 이해하고, 하나의 웹서비스가 완성되는 전체 과정을 경험하는 것이 목표입니다.
+
+### 프로그래밍
+
+프로그래밍은 단순히 코드를 작성하는 것이 아니라 주어진 문제를 분석하고 논리적으로 해결하는 과정이라고 생각합니다.
+
+현재 Python을 중심으로 변수, 조건문, 반복문, 함수 등 기본적인 프로그래밍 개념을 학습하고 있습니다.
+
+특히 하나의 문제를 해결하기 위해 여러 가지 방법을 생각하고, 작성한 코드에서 발생하는 오류를 찾아 수정하는 과정이 중요하다고 생각합니다.
+
+앞으로 다양한 프로그래밍 언어를 학습하고 알고리즘과 자료구조에 대한 이해도를 높여 효율적으로 문제를 해결하는 능력을 기르고 싶습니다.
+
+### 소프트웨어 개발
+
+프로그램이 기획부터 구현, 테스트, 유지보수까지 어떤 과정을 거쳐 완성되는지 관심이 있습니다.
+
+단순히 코드를 작성하는 것에서 그치지 않고 프로그램의 구조를 이해하며, 다른 사람이 읽고 이해하기 쉬운 코드를 작성하는 능력을 기르고 싶습니다.
+
+또한 Git과 GitHub를 활용한 버전 관리 방법을 익히고, 향후 팀 프로젝트를 통해 다른 개발자들과 협업하는 경험도 쌓고 싶습니다.
+
+## 보유 역량
+
+### Python
+
+Python의 기본 문법을 학습하고 있으며, 변수와 자료형, 조건문, 반복문, 함수 등을 활용한 기초적인 프로그램 작성 방법을 익히고 있습니다.
+
+앞으로 다양한 문제 해결 실습을 통해 Python 활용 능력을 향상시키고, 학습한 내용을 실제 프로그램 구현에 적용해 보고 싶습니다.
+
+### Git / GitHub
+
+Git과 GitHub를 활용한 소스 코드 버전 관리의 기본 개념을 학습하고 있습니다.
+
+코드의 변경 사항을 기록하고 프로젝트 파일을 관리하는 방법을 익히면서, 개발 과정에서 버전 관리가 왜 중요한지 이해하고자 노력하고 있습니다.
+
+향후 GitHub에 학습 내용과 프로젝트 결과물을 정리하여 개발 경험을 체계적으로 기록할 계획입니다.
+
+### HTML / CSS
+
+HTML을 이용해 웹페이지의 기본 구조를 구성하고, CSS를 활용해 글자, 색상, 배치 등 웹페이지의 디자인을 설정하는 방법을 학습하고 있습니다.
+
+앞으로 다양한 웹페이지를 직접 구현하면서 HTML과 CSS에 대한 이해도를 높이고, 화면 크기에 따라 레이아웃이 달라지는 반응형 웹 디자인도 학습하고 싶습니다.
+
+## 학습 목표
+
+### 1. 프로그래밍 기초 역량 강화
+
+프로그래밍 언어의 기본 문법을 정확하게 이해하고, 이를 활용해 주어진 문제를 스스로 해결할 수 있는 능력을 기르는 것이 첫 번째 목표입니다.
+
+조건문, 반복문, 함수와 같은 기본 개념을 충분히 익히고, 알고리즘과 자료구조에 대한 학습으로 확장해 나갈 계획입니다.
+
+### 2. 웹 개발 과정 이해
+
+HTML, CSS, JavaScript를 단계적으로 학습하면서 웹페이지의 구조와 동작 원리를 이해하고 싶습니다.
+
+이론 학습에서 그치지 않고 자기소개 페이지, 간단한 웹사이트 등 직접 결과물을 만들어 보면서 웹 개발 경험을 쌓는 것이 목표입니다.
+
+### 3. GitHub를 활용한 프로젝트 관리 경험 축적
+
+GitHub를 단순히 코드를 저장하는 공간이 아니라 학습 과정과 개발 기록을 관리하는 도구로 활용하고 싶습니다.
+
+수업에서 진행한 실습과 개인적으로 작성한 코드를 정리하고, 프로젝트별로 변경 사항과 학습 내용을 기록할 계획입니다.
+
+### 4. 문제 해결 능력 향상
+
+프로그래밍 과정에서 발생하는 오류를 스스로 분석하고 해결할 수 있는 능력을 기르고 싶습니다.
+
+오류가 발생했을 때 원인을 파악하고, 공식 문서나 다양한 학습 자료를 참고하여 해결 방법을 찾는 습관을 만들겠습니다.
+
+## 앞으로의 계획
+
+앞으로는 학교 수업에서 배운 내용을 바탕으로 꾸준히 프로그래밍을 연습하고, 학습한 개념을 직접 구현하는 경험을 늘려 나갈 계획입니다.
+
+먼저 Python을 활용한 기초 프로그래밍 능력을 강화하고, HTML과 CSS를 이용하여 다양한 형태의 웹페이지를 만들어 보고 싶습니다.
+
+이후 JavaScript와 웹 개발에 필요한 기술을 추가로 학습하면서 간단한 기능을 갖춘 웹 프로젝트에도 도전할 생각입니다.
+
+또한 GitHub에 학습 기록과 프로젝트 결과물을 꾸준히 정리하여 제가 어떤 내용을 공부하고 어떻게 성장해 왔는지 확인할 수 있도록 관리하겠습니다.
+
+아직 부족한 부분이 많지만, 새로운 기술을 배우는 것을 두려워하지 않고 꾸준히 도전하는 자세를 유지하고 싶습니다.
+
+**작은 프로그램 하나라도 직접 완성해 보는 경험을 쌓으며, 이론과 실무 능력을 함께 갖춘 개발자로 성장하겠습니다.**
