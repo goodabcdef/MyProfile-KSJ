@@ -46,17 +46,19 @@ Hugo 정적 사이트 생성기와 Hugo Coder 테마를 활용하여 자기소�
 
 ## 로컬 실행 방법
 
-Hugo Extended와 필요한 테마 의존성을 설치한 환경에서 저장소를 내려받습니다.
+Hugo Extended와 프로젝트에 필요한 의존성이 설치된 환경에서 저장소를 내려받습니다.
 
 ```bash
 git clone https://github.com/goodabcdef/MyProfile-KSJ.git
 cd MyProfile-KSJ/site
-hugo server
+hugo server --config "hugo.toml,pages.json"
 ```
 
-개발 서버가 정상적으로 실행되면 터미널에 표시되는 로컬 주소에서 사이트를 확인합니다.
+개발 서버가 정상적으로 실행되면 브라우저에서 `http://localhost:1313/`에 접속하여 사이트를 확인할 수 있습니다.
 
-배포 빌드는 저장소 루트의 GitHub Actions 워크플로와 `.github/pages_build.py`를 통해 수행됩니다.
+이 프로젝트는 `site/themes/template/`에 테마가 저장되어 있으며, `pages.json`에서 해당 테마를 지정합니다. 따라서 `hugo.toml`과 `pages.json`을 함께 지정해야 정상적으로 실행됩니다.
+
+로컬 서버를 종료하려면 터미널에서 `Ctrl + C`를 누릅니다.
 
 ## 콘텐츠 수정 방법
 
