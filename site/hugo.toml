@@ -1,5 +1,5 @@
 baseURL = "https://goodabcdef.github.io/MyProfile-KSJ/"
-title = "KSJ Portfolio"
+title = "김성진 | 개인 포트폴리오"
 theme = "hugo-coder"
 languageCode = "ko"
 defaultContentLanguage = "ko"
@@ -25,14 +25,14 @@ unsafe = true
 author = "김성진"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "김성진의 개인 포트폴리오"
-keywords = "blog,developer,personal"
-info = ["컴퓨터공학"]
+keywords = "김성진,컴퓨터공학,Python,FastAPI,백엔드,포트폴리오"
+info = ["컴퓨터공학 전공", "웹 개발 및 백엔드 학습"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-dateFormat = "January 2, 2006"
+dateFormat = "2006-01-02"
 since = 2026
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/luizdepra/hugo-coder/tree/"
+# commit = "https://github.com/luizdepra/hugo-coder/tree/" # 데모 저장소 링크 비활성화
 # Right To Left, shift content direction for languages such as Arabic
 rtl = false
 # Specify light/dark colorscheme
@@ -145,43 +145,12 @@ series = "series"
 tag = "tags"
 author = "authors"
 
+# 실제 사용하는 SNS만 표시
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa-brands fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
-url = "https://twitter.com/johndoe/"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa-brands fa-medium fa-2x"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+url = "https://github.com/goodabcdef/"
 
 [languages.ko]
 languageName = "한국어"
